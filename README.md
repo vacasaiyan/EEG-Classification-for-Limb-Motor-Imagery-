@@ -1,1 +1,1 @@
-# EEG-Classification-for-Limb-Motor-Imagery-
+# Limb-Motor-Imagery-For-Prosthetic-Control
